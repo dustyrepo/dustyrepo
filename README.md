@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="400" src="https://i.ibb.co/kg9p9ZT/logo-banner.png"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://discord.gg/DESwMrjbcx" target="_blank">
