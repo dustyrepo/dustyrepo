@@ -1,3 +1,4 @@
+###
 
 <div align="center">
   <a href="https://discord.gg/DESwMrjbcx" target="_blank">
@@ -38,12 +39,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.ibb.co/4FfXF6B/skibiditrack.png"  />
 </div>
 
 ###
