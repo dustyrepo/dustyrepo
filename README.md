@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm dusty from Germany<br><br>- 🔭 I’m working on TrackRP<br>- 📚 I'm currently learning React</p>
+<p align="left">I'm dusty from Germany</p>
 
 ###
 
