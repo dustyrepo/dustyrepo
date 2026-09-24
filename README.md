@@ -16,29 +16,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-
-  <!-- Frontend -->
-
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-
-  <!-- Backend -->
-
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-
-  <!-- Databases -->
-
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-
-  <!-- Software -->
-
   <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
 </p>
 
