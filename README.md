@@ -14,13 +14,13 @@
   </a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 
   <!-- Frontend -->
 
