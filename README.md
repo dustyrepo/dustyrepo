@@ -2,7 +2,7 @@
 
 * 🔭 I'm currently working on **[Dusty Development](https://discord.gg/veaHZj5Pq9)**
 * 🌱 I'm currently getting better at **Front-End Development**
-* 👨‍💻 All of my resources are available at **[Dusty Development](https://dustydev.tebex.store/)**
+* 👨‍💻 All of my resources are available on **[Tebex](https://dustydev.tebex.store/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
